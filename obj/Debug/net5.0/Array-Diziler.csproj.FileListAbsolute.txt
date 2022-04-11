@@ -1,0 +1,16 @@
+C:\Users\gamer\Desktop\Array-Diziler\bin\Debug\net5.0\Array-Diziler.exe
+C:\Users\gamer\Desktop\Array-Diziler\bin\Debug\net5.0\Array-Diziler.deps.json
+C:\Users\gamer\Desktop\Array-Diziler\bin\Debug\net5.0\Array-Diziler.runtimeconfig.json
+C:\Users\gamer\Desktop\Array-Diziler\bin\Debug\net5.0\Array-Diziler.runtimeconfig.dev.json
+C:\Users\gamer\Desktop\Array-Diziler\bin\Debug\net5.0\Array-Diziler.dll
+C:\Users\gamer\Desktop\Array-Diziler\bin\Debug\net5.0\ref\Array-Diziler.dll
+C:\Users\gamer\Desktop\Array-Diziler\bin\Debug\net5.0\Array-Diziler.pdb
+C:\Users\gamer\Desktop\Array-Diziler\obj\Debug\net5.0\Array-Diziler.csproj.AssemblyReference.cache
+C:\Users\gamer\Desktop\Array-Diziler\obj\Debug\net5.0\Array-Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\Desktop\Array-Diziler\obj\Debug\net5.0\Array-Diziler.AssemblyInfoInputs.cache
+C:\Users\gamer\Desktop\Array-Diziler\obj\Debug\net5.0\Array-Diziler.AssemblyInfo.cs
+C:\Users\gamer\Desktop\Array-Diziler\obj\Debug\net5.0\Array-Diziler.csproj.CoreCompileInputs.cache
+C:\Users\gamer\Desktop\Array-Diziler\obj\Debug\net5.0\Array-Diziler.dll
+C:\Users\gamer\Desktop\Array-Diziler\obj\Debug\net5.0\ref\Array-Diziler.dll
+C:\Users\gamer\Desktop\Array-Diziler\obj\Debug\net5.0\Array-Diziler.pdb
+C:\Users\gamer\Desktop\Array-Diziler\obj\Debug\net5.0\Array-Diziler.genruntimeconfig.cache
